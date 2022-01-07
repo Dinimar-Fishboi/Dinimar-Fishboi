@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Dinimar-Fishboi
 
 - 👀 I’m interested in learning more about literally everything; particularly Back End software.
-- 🌱 I’m currently learning MERN stack; fetching Web API's and utilising Server-Side API's.
+- 🌱 I’m currently learning AWS cloud computing and DynamoDB.
 - 💞️ I’m looking to collaborate on anything; always looking for experience.
-- 📫 Email: dev.fish.studio@protonmail.com
-- 📷 Portfolio: https://dinimar-fishboi.github.io/React_Portfolio/
+- 📫 Email: brynk@protonmail.com
+- 📷 Portfolio: https://taytallisdev.herokuapp.com
 
 <!---
 Dinimar-Fishboi/Dinimar-Fishboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
